@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmad/Programs/Programming/CarExistenceCheck/LPRegistrar.cpp
+LPRegistrar.h
+/home/ahmad/Programs/Programming/CarExistenceCheck/LPRegistrar.h
+
+/home/ahmad/Programs/Programming/CarExistenceCheck/LPRegistrar.h
+iostream
+-
+string
+-
+sstream
+-
+
+/home/ahmad/Programs/Programming/CarExistenceCheck/main.cpp
+iostream
+-
+dirent.h
+-
+boost/algorithm/string/replace.hpp
+-
+opencv2/core.hpp
+/home/ahmad/Programs/Programming/CarExistenceCheck/opencv2/core.hpp
+opencv2/highgui.hpp
+/home/ahmad/Programs/Programming/CarExistenceCheck/opencv2/highgui.hpp
+opencv2/imgproc.hpp
+/home/ahmad/Programs/Programming/CarExistenceCheck/opencv2/imgproc.hpp
+opencv2/video/tracking.hpp
+/home/ahmad/Programs/Programming/CarExistenceCheck/opencv2/video/tracking.hpp
+LPRegistrar.h
+/home/ahmad/Programs/Programming/CarExistenceCheck/LPRegistrar.h
+

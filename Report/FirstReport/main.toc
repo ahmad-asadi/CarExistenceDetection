@@ -1,0 +1,6 @@
+\contentsline {section}{فهرست مطالب}{ب}{section*.1}
+\contentsline {section}{\numberline {1}مقدمه}{1}{section.1}
+\contentsline {section}{\numberline {2}جانمایی پلاک در تصویر}{1}{section.2}
+\contentsline {section}{\numberline {3}جداسازی نویسه‌های پلاک}{5}{section.3}
+\contentsline {section}{\numberline {4}دسته‌بندی تک‌تک نویسه‌های موجود در پلاک}{6}{section.4}
+\contentsline {section}{مراجع}{9}{section*.2}

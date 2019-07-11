@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: ieeetr-fa.bst
+Database file #1: ref.bib
+-- ieeetr-fa.bst version 0.6 (2011/07/01) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+
+Done.
+You've used 16 entries,
+            2349 wiz_defined-function locations,
+            702 strings with 8222 characters,
+and the built_in function-call counts, 6463 in all, are:
+= -- 610
+> -- 179
+< -- 0
++ -- 65
+- -- 49
+* -- 415
+:= -- 750
+add.period$ -- 16
+call.type$ -- 16
+change.case$ -- 16
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 320
+empty$ -- 571
+format.name$ -- 49
+if$ -- 1767
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 169
+newline$ -- 118
+num.names$ -- 16
+pop$ -- 72
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 249
+stack$ -- 0
+substring$ -- 528
+swap$ -- 148
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 0
+warning$ -- 0
+while$ -- 64
+width$ -- 18
+write$ -- 221

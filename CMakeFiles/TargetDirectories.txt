@@ -1,0 +1,3 @@
+/home/ahmad/Programs/Programming/CarExistenceCheck/CMakeFiles/rebuild_cache.dir
+/home/ahmad/Programs/Programming/CarExistenceCheck/CMakeFiles/edit_cache.dir
+/home/ahmad/Programs/Programming/CarExistenceCheck/CMakeFiles/CarLicensePlateDetection.dir

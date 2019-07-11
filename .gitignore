@@ -1,0 +1,11 @@
+./Dataset/
+Dataset/
+_classifier.svm
+_features.size
+__classifier.svm
+__features.svm
+templs/
+tmp/
+tmp_templs/
+classifier.svm
+features.size
